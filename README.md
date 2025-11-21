@@ -17,13 +17,13 @@
 ### Using `pipx`
 Install Robofinder quickly and securely using `pipx`:
 ```bash
-pipx install git+https://github.com/Spix0r/robofinder.git
+pipx install git+https://github.com/Mirzadzare/robofinder.git
 ```
 
 ### Manual Installation
 To install manually:
 ```bash
-git clone https://github.com/Spix0r/robofinder.git
+git clone https://github.com/Mirzadzare/robofinder.git
 cd robofinder
 pip install -r requirements.txt
 ```
@@ -88,6 +88,6 @@ robofinder -u https://example.com -t 10 -o results.txt -s -p
 
 ## Contributing
 
-Contributions are highly welcome! If you have ideas for new features, optimizations, or bug fixes, feel free to submit a Pull Request or open an issue on the [GitHub repository](https://github.com/Spix0r/robofinder).
+Contributions are highly welcome! If you have ideas for new features, optimizations, or bug fixes, feel free to submit a Pull Request or open an issue on the [GitHub repository](https://github.com/Mirzadzare/robofinder).
 
 ---
