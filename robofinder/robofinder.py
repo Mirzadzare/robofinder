@@ -22,7 +22,7 @@ def showBanner():
  / _, _/ /_/ / /_/ / /_/ / __/ / / / / /_/ /  __/ /    
 /_/ |_|\____/_____/\____/_/ /_/_/ /_/\____/\___/_/
                                 """+
-    colors.PURPLE + "github.com/Mirzadzare\n" + colors.ENDC)
+    colors.PURPLE + "github.com/Spix0r\n" + colors.ENDC)
 
 def logger(debug, message):
     current_time = datetime.datetime.now()
